@@ -1,7 +1,7 @@
 # 리눅스 명령어 참고서: top, ps, jobs, kill
 
 리눅스 명령어 `top`, `ps`, `jobs`, `kill`에 대해 조사함.
-![computer](file:///Users/yunji/Desktop/YKrMxZePPjblD9e7LnR473n3NJXreNAY9o1mTC6oG2hoOuE2ZOH1rd8u0PYtEroty63ZLGkDZ_aEKOuoTBNRbE_daW-kwdAbgHiMD5fLlXGPzjUTHb5Lnmlp0F4Qr4b29PZcpZ396IAzZdZ3rNIUfw.svg)
+![git](file:///Users/yunji/Desktop/YKrMxZePPjblD9e7LnR473n3NJXreNAY9o1mTC6oG2hoOuE2ZOH1rd8u0PYtEroty63ZLGkDZ_aEKOuoTBNRbE_daW-kwdAbgHiMD5fLlXGPzjUTHb5Lnmlp0F4Qr4b29PZcpZ396IAzZdZ3rNIUfw.svg)
 ## 목차
 - [top](#top)
 - [ps](#ps)
